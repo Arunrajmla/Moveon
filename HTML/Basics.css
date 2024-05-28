@@ -1,4 +1,9 @@
-
+.roboto-mono {
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 2px;
+  font-style: normal;
+}
     .common {
         height: 30px;
         border: none;
@@ -38,4 +43,5 @@
         border-radius: 5px;
         width: 80px;
         font-weight: bold;
+        margin-bottom: 10px;
     }
